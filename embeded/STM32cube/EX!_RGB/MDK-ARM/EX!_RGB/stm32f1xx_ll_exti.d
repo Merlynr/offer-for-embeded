@@ -1,0 +1,10 @@
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_exti.c
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_exti.h
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/CMSIS/Include/core_cm3.h
+ex!_rgb\stm32f1xx_ll_exti.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/CMSIS/Include/cmsis_version.h
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ex!_rgb\stm32f1xx_ll_exti.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h

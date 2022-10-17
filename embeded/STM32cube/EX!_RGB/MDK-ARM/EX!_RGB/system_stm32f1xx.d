@@ -1,0 +1,9 @@
+ex!_rgb\system_stm32f1xx.o: ../Core/Src/system_stm32f1xx.c
+ex!_rgb\system_stm32f1xx.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+ex!_rgb\system_stm32f1xx.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+ex!_rgb\system_stm32f1xx.o: ../Drivers/CMSIS/Include/core_cm3.h
+ex!_rgb\system_stm32f1xx.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+ex!_rgb\system_stm32f1xx.o: ../Drivers/CMSIS/Include/cmsis_version.h
+ex!_rgb\system_stm32f1xx.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+ex!_rgb\system_stm32f1xx.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+ex!_rgb\system_stm32f1xx.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h

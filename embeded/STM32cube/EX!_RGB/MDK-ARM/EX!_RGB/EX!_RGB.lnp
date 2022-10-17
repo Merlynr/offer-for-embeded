@@ -1,0 +1,15 @@
+--cpu Cortex-M3
+"ex!_rgb\startup_stm32f103xb.o"
+"ex!_rgb\main.o"
+"ex!_rgb\gpio.o"
+"ex!_rgb\stm32f1xx_it.o"
+"ex!_rgb\stm32f1xx_ll_gpio.o"
+"ex!_rgb\stm32f1xx_ll_pwr.o"
+"ex!_rgb\stm32f1xx_ll_exti.o"
+"ex!_rgb\stm32f1xx_ll_rcc.o"
+"ex!_rgb\stm32f1xx_ll_utils.o"
+"ex!_rgb\system_stm32f1xx.o"
+--strict --scatter "EX!_RGB\EX!_RGB.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "EX!_RGB.map" -o EX!_RGB\EX!_RGB.axf
